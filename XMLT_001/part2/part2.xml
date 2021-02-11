@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE myportfolio PUBLIC "GermanLetonMatumbafan" "http://kodaktor.ru/j/_dtd/80f54">
+<myportfolio>
+    <mycompetencies>
+        <competency in="HTML" value="solid"/>
+        <competency in="CSS" value="not bad, but little to no experience with complex uses"/>
+        <competency in="JavaScript" value="confident, except async"/>
+        <competency in="Vue" value="proficient, worked on multiple big projects"/>
+        <competency in="Bootstrap" value="pretty good at it"/>
+        <competency in="Express" value="familiar with it"/>
+        <competency in="Blazor" value="actively learning"/>
+        <competency in="REST" value="pretty good"/>
+        <competency in="MongoDB" value="solid"/>
+        <competency in="SQL" value="okay-ish, complex queries make my brain hurt"/>
+        <competency in="NOSQL" value="decent at it"/>
+    </mycompetencies>
+</myportfolio>

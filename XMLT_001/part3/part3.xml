@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ipchart PUBLIC "GermanLetonMatumbafan" "http://kodaktor.ru/j/_dtd/0af81">
+<ipchart>
+    <mostfrequentip addr="077.234.203.101"/>
+    <pcchart>
+        <pc type="Windows" frequency="12"/>
+        <pc type="Linux" frequency="34"/>
+        <pc type="MacOS" frequency="56"/>
+    </pcchart>
+    <mobilestats amount="66"/>
+    <ips>
+        <ip addr="178.016.148.001" frequency="15"/>
+        <ip addr="005.144.096.251" frequency="14"/>
+        <ip addr="094.019.207.122" frequency="13"/>
+        <ip addr="104.045.018.178" frequency="12"/>
+        <ip addr="088.201.207.197" frequency="11"/>
+    </ips>
+</ipchart>
